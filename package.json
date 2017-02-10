@@ -1,0 +1,29 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Starter tests for CRUDL api",
+  "main": "application.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinmurphy/starter.git"
+  },
+  "keywords": [
+    "starter",
+    "test",
+    "crudl",
+    "node"
+  ],
+  "author": "Martin Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinmurphy/starter/issues"
+  },
+  "homepage": "https://github.com/martinmurphy/starter#readme",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "request": "^2.79.0"
+  }
+}
